@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:inovola/bloc/bloc.dart';
 
-import 'home.dart';
+import 'ui/home.dart';
 
 void main() => runApp(App());
 

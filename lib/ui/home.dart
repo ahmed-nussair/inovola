@@ -1,10 +1,8 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:intl/date_symbol_data_file.dart';
 import 'package:intl/intl.dart' as intl;
 import 'package:http/http.dart' as http;
-import 'package:responsive_container/responsive_container.dart';
 
 import 'custome_icons.dart';
 

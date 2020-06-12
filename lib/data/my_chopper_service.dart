@@ -2,6 +2,8 @@ import 'package:chopper/chopper.dart';
 
 part 'my_chopper_service.chopper.dart';
 
+// From API: https://run.mocky.io/v3/3a1ec9ff-6a95-43cf-8be7-f5daa2122a34
+
 @ChopperApi(baseUrl: '/v3')
 abstract class MyChopperService extends ChopperService {
 
